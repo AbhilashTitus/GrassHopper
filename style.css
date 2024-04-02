@@ -168,5 +168,23 @@ body.scrolled .navbar.fixed-top {
     }
 }
 
+@media (max-width: 991.98px) {
+
+    .navbar-nav {
+        justify-content: center;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .navbar-nav .nav-item {
+        text-align: center;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 15px 20px; 
+    }
+}
+
+
 
 
